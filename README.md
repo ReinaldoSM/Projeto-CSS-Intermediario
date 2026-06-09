@@ -19,3 +19,7 @@ Este projeto foi criado com o objetivo principal de praticar e aprimorar minhas 
 - HTML5
 
 - CSS3
+
+De uma olhada:
+
+Link: https://reinaldosm.github.io/Projeto-CSS-Intermediario/
